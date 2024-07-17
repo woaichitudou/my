@@ -1,0 +1,1 @@
+import{_ as o}from"./_plugin-vue_export-helper-c27b6911.js";import{g as t,o as c,c as n,h as r}from"./index-55abb707.js";const s={},a={class:"compute"};function _(m,p){const e=t("van-empty");return c(),n("div",a,[r(e,{image:"error",description:"不知干嘛 先放着再说"})])}const f=o(s,[["render",_]]);export{f as default};
